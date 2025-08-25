@@ -20,3 +20,4 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 AI Integration: OpenAI API
+
